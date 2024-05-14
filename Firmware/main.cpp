@@ -1,8 +1,8 @@
 /*
  * -> Feedback Control Systems - Final Project
  * -> Authors:
- *    Luiz Pedro Bittencourt Souza - 12111EAU002 | github.com/luizpedrobt
- *    Fernanda de Carvalho Pinto - 12111EBI020 | github.com/fcarvalhop
+ *    Luiz Pedro Bittencourt Souza | github.com/luizpedrobt
+ *    Fernanda de Carvalho Pinto | github.com/fcarvalhop
  *
 */
 
