@@ -1,7 +1,7 @@
 
 ### Hi there👋
 
-This project was developed as part of the Feedback Control Systems Lab course during my undergraduate studies. It was a collaborative effort, carried out in pairs <a href="https://github.com/fcarvalhop" target="_blank">Fernanda Carvalho</a>, with the objective of designing a digital PID controller to regulate temperature within a controlled environment.
+This project was developed as part of the Feedback Control Systems Lab course during my undergraduate studies. It was a collaborative effort, carried out in pairs <a href="https://github.com/luizpedrobt" target="_blank">Luiz Pedro Bittencourt</a>, with the objective of designing a digital PID controller to regulate temperature within a controlled environment.
 
 <div align="center">
   <img src="https://github.com/luizpedrobt/FeedbackControlSystems_FinalProject/blob/main/images/8ec62bac-992b-421e-b064-076684428e57.jpeg" width="500">
